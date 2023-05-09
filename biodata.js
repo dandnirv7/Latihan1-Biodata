@@ -4,7 +4,7 @@ const biodataModule = require("./Biodata/moduleBiodata");
 let nama = "Dandi Nirpana Nahin";
 let tempatLahir = "Bekasi";
 let tanggalLahir = "19 Desember 2002";
-let alamat = "Kp. Kali Baru RT 001 / RW 001 Kab. Bekasi Kec. Tambun Selatan";
+let alamat = "Kp. Kali Baru RT 001 / RW 001 Kec. Tambun Selatan Kab. Bekasi";
 
 http
   .createServer((req, res) => {
